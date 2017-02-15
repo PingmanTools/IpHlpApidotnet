@@ -4,7 +4,6 @@ using System.Text;
 using System.Collections;
 using System.Diagnostics;
 using System.Threading;
-using System.Net;
 using System.Net.NetworkInformation;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;

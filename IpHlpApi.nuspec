@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IpHlpApi</id>
+    <version>$version$</version>
+    <title>IpHlpApi</title>
+    <authors>https://github.com/Loriowar/, https://www.codeproject.com/articles/14423/getting-the-active-tcp-udp-connections-using-the-g</authors>
+    <owners>https://github.com/Loriowar/, https://www.codeproject.com/articles/14423/getting-the-active-tcp-udp-connections-using-the-g</owners>
+    <projectUrl>https://github.com/PingmanTools/IpHlpApidotnet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wrapper to IpHelperAPI.dll (Windows IP Helper Functions)</description>
+    <tags>Iphlpapi Iphlpapi.dll IP Helper Functions IpHlpApidotnet</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/IpHlpApidotnet.dll" target="lib\net45\IpHlpApidotnet.dll" />
+    <file src="bin/Release/IpHlpApidotnet.XML" target="lib\net45\IpHlpApidotnet.xml" />
+  </files>
+</package>
